@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <path>
+    <item android:state_focused="true"
+        android:fillColor="@color/appColor"/>
+    <item android:state_focused="false"
+        android:fillColor="@android:color/darker_gray"/>
+    </path>
+</selector>

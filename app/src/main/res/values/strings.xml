@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quick Shop</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Shopping Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="card_layout">test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_intro1">Scan, Pay &amp; Enjoy!</string>
+    <string name="desc_intro1">Scan the products you want to buy from your favorite store.</string>
+    <string name="desc2_intro1">Pay by phone.A pleasant and friendly shopping experience!</string>
+    <string name="text_intro2">Scannez, Payez &amp; Profitez!</string>
+    <string name="desc_intro2">Scannez les produits que vous souhaitez acheter dans votre magasin préféré.</string>
+    <string name="desc2_intro2">Payez par téléphone.Un shopping agréable et convivial!</string>
+    <string name="text_intro3">Scannez, Payez &amp; Profitez!</string>
+    <string name="desc_intro3">Scannez les produits que vous souhaitez acheter dans votre magasin préféré.</string>
+    <string name="desc2_intro3">Payez par téléphone.Un shopping agréable et convivial!</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
